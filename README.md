@@ -4,7 +4,9 @@
 
 Bienvenue sur notre projet collectif dédié à la DataViz, avec pour objectif de traiter les données de l'API des Pokémon. Nous avons créé un Pokédex interactif en utilisant JavaScript, HTML et CSS.
 
-Pokedex.1.mp4
+
+https://github.com/Gulbahar57/API_Pokedex/assets/158152207/cef8f33b-e56c-4a3d-9f1b-27483083dfb6
+
  
 🗒️ Objectif du projet
 
@@ -34,7 +36,7 @@ Nous avons identifié plusieurs pistes d'amélioration pour notre projet, notamm
 
 - Ajouter des animations pour rendre le site plus interactif,
 - Améliorer le design et l'expérience utilisateur globale.
-- 
+  
 🔑 Comment installer le projet
 
 Clonez le dépôt :
