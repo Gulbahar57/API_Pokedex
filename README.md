@@ -37,16 +37,9 @@ Nous avons identifié plusieurs pistes d'amélioration pour notre projet, notamm
 - Ajouter des animations pour rendre le site plus interactif,
 - Améliorer le design et l'expérience utilisateur globale.
   
-🔑 Comment installer le projet
+🔑 Comment aller sur le site 
 
-Clonez le dépôt :
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
-Installez les dépendances :
-npm install
-Lancez le projet :
-npm start
-Accédez ensuite à http://localhost:3000 pour voir le Pokédex en action.
+Vous pouvez accéder à notre projet directement sur vercel : https://vercel.com/gugus-projects-60929bb5/api-pokedex
 
 🎊 Contributions et suggestions
 
