@@ -39,7 +39,7 @@ Nous avons identifié plusieurs pistes d'amélioration pour notre projet, notamm
   
 🔑 Comment aller sur le site 
 
-Vous pouvez accéder à notre projet directement sur vercel : https://vercel.com/gugus-projects-60929bb5/api-pokedex
+Vous pouvez accéder à notre projet directement sur vercel : api-pokedex-zeta.vercel.app
 
 🎊 Contributions et suggestions
 
